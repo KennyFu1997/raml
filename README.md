@@ -11,4 +11,4 @@ Asymmetric metric learning by M. Budnik.
 
 1. [CNN Image Retrieval in PyTorch: Training and evaluating CNNs for Image Retrieval in PyTorch](https://github.com/filipradenovic/cnnimageretrieval-pytorch) by F. Radenović.
 2. [Asymmetric metric learning](https://github.com/budnikm/aml) by M. Budnik.
-3. [Resolution Asymmetric Metric Learning](https://github.com/pavelsuma/raml/tree/master?tab=readme-ov-file) by P. Suma.
+3. [Large-to-small Image Resolution Asymmetry in Deep Metric Learning](https://github.com/pavelsuma/raml/tree/master?tab=readme-ov-file) by P. Suma.
